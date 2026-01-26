@@ -1,6 +1,19 @@
+
 # 🚀 Visionary Studio — AI Image Editor
 
-> **Note:** This project was built locally from **Dec 2024 – April 2025** and only later committed to GitHub.
+## 🎬 Project Walkthrough Video
+
+[![Watch the video](https://img.youtube.com/vi/tJLGXzhSY9E/0.jpg)](https://www.youtube.com/watch?v=tJLGXzhSY9E)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=tJLGXzhSY9E)
+
+---
+
+## 🚀 Live Demo
+
+[https://visionary-studio.onrender.com](https://visionary-studio.onrender.com)
+
+---
 
 Visionary Studio is a modern, open-source AI-powered image editor. It combines a beautiful, futuristic UI with professional-grade editing tools, real-time collaboration, and seamless AI integrations—making advanced image editing accessible to everyone.
 
@@ -79,17 +92,4 @@ Feel free to open issues, suggest features, or report bugs.
 
 ---
 
-## 🙏 Acknowledgments
 
-Special thanks to the open-source community and all contributors.  
-Inspired by modern SaaS design and the latest in AI image editing.
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
-Would you like to add a logo, architecture diagram, or extra documentation (like a CONTRIBUTING.md)? Let me know if you want any of these enhancements!
